@@ -134,6 +134,10 @@ body{
         font-size: 36px;
         line-height: 1.11111;
         letter-spacing: 0.02em;
+        line-height: 1.11;
+        text-align: center;
+        text-transform: capitalize;
+        color: #2e2f42;
 }
 .portfolio-list{
     font-family: "Roboto", sans-serif;
@@ -160,7 +164,9 @@ body{
         font-size: 18px;
         line-height: 1.16667;
         letter-spacing: 0.03em;
-        color: #f4f4fd;
+        color: #4d5ae5;
+        line-height: 1.17;
+        text-transform: uppercase;
 }
 .footer-text{
     font-family: "Roboto", sans-serif;
