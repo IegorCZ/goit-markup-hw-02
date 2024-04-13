@@ -108,6 +108,10 @@ body{
         font-size: 36px;
         line-height: 1.11111;
         letter-spacing: 0.02em;
+        line-height: 1.11;
+        text-align: center;
+        text-transform: capitalize;
+        color: #2e2f42;
 }
 .team-names{
     font-weight: 500;
@@ -120,6 +124,9 @@ body{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
+}
+.team-background-photos{
+    background-color: #FFFFFF;
 }
 /* ========Potrfolio styles======== */
 .portfolio-title{
