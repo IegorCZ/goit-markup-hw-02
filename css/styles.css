@@ -7,3 +7,14 @@ a {
 button {
     cursor: pointer;
 }
+body{
+    font-family: "Roboto", sans-serif;
+}
+.menu-link:hover,
+.menu-link:focus{
+    color: #9747FF
+}
+.menu-contacts:hover,
+.menu-contacts:focus{
+    color: #9747FF
+}
