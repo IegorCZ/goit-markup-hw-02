@@ -20,8 +20,8 @@ body{
 .menu-link:focus{
     color: #9747FF
 }
-.menu-contacts:hover,
-.menu-contacts:focus{
+.contact-list-link:hover,
+.contact-list-link:focus{
     color: #9747FF
 }
 .page-logo{
@@ -37,15 +37,15 @@ body{
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.menu-contacts{
+.contact-list-link{
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
-.text-blue{
-    color: #4d5ae5;
+.color-web {
+    color: #4d5ae5
 }
 /* ========Hero styles======== */
 .hero{
@@ -86,6 +86,9 @@ body{
 /* ========Team styles======== */
 .team-background{
     background-color: #f4f4fd;
+}
+.team-background-photos{
+    background-color: #fff;
 }
 .team-title{
         font-weight: 700;
@@ -146,4 +149,7 @@ body{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+}
+.color-web{
+color: #4d5ae5;
 }
