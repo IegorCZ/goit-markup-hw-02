@@ -36,7 +36,7 @@ body{
         text-transform: uppercase;
         color: #4d5ae5
 }
-.color-studio{
+.color-logostudio{
     color:#2e2f42;
 }
 .menu-link{
@@ -103,7 +103,7 @@ body{
 .team-background{
     background-color: #f4f4fd;
 }
-.team-background-photos{
+.team-photos{
     background-color: #FFFFFF;
 }
 .team-title{
@@ -121,6 +121,7 @@ body{
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 .team-roles{
     font-weight: 400;
@@ -128,9 +129,7 @@ body{
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.team-background-photos{
-    background-color: #FFFFFF;
-}
+
 /* ========Potrfolio styles======== */
 .portfolio-title{
     font-weight: 700;
