@@ -18,12 +18,12 @@ body{
 /* ========Header styles======== */
 .menu-link:hover,
 .menu-link:focus{
-    color: #9747FF
+    color: #9747FF;
     color: #404bbf;
 }
 .contact-list-link:hover,
 .contact-list-link:focus{
-    color: #9747FF
+    color: #9747FF;
     color: #404bbf;
 }
 .page-logo{
@@ -37,7 +37,7 @@ body{
         color: #4d5ae5
 }
 .color-studio{
-    color:#2e2f42
+    color:#2e2f42;
 }
 .menu-link{
         font-weight: 500;
@@ -54,11 +54,11 @@ body{
         color: #434455;
 }
 .contact-block{
-    font-style: normal
+    font-style: normal;
 }
 /* ========Hero styles======== */
 .hero{
-    background-color: #2e2f42;;
+    background-color: #2e2f42;
 }
 .main-title{
     font-family: "Roboto", sans-serif;
